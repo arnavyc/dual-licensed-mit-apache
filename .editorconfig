@@ -1,0 +1,27 @@
+# SPDX-FileCopyrightText: 2021 Arnav Yash Chandra <arnavyash2004@outlook.com>
+#
+# SPDX-License-Identifier: MIT OR Apache-2.0
+
+root = true
+
+[*]
+end_of_line = lf
+charset = utf-8
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[Makefile]
+indent_style = tab
+
+[*.{yml,yaml}]
+indent_style = space
+indent_size = 2
+
+[*.{js,jsx,mjs,ts,tsx}]
+indent_style = space
+indent_size = 2
+
+# PEP 8 guidelines
+[*.py]
+indent_style = space
+indent_size = 4
