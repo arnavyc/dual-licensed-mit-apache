@@ -49,7 +49,7 @@ dual licensed as below, without any additional terms or conditions.
 
 ## License
 
-&copy; \<year\> \<authors\> \[\<email\>]
+&copy; \<year\> \<authors\> \[\<email\>].
 
 This project is licensed under either of
 
