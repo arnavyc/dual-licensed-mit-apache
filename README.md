@@ -49,6 +49,8 @@ dual licensed as below, without any additional terms or conditions.
 
 ## License
 
+&copy; \<year\> \<authors\> \[\<email\>]
+
 This project is licensed under either of
 
 - Apache License, Version 2.0 ([LICENSE-APACHE](LICENSE-APACHE) or
