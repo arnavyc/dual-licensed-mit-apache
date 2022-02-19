@@ -35,10 +35,10 @@ license.
 
 - Either fork or use the repository as a Github template.
 - Replace all instances of `<authors>` with either your name or text such as
-  `Contributors of Project <name>` in both [README](README.md) and [LICENSE-MIT](LICENSE-MIT).
+  `Contributors of Project <name>` in both [`README`](README.md) and [`LICENSE-MIT`](LICENSE-MIT).
 - Either replace `[<email>]` with your personal or project email enclosed within
-  angle brackets (\<, \>), such as `<email@example.com>` in both [README](README.md) and
-  [LICENSE-MIT](LICENSE-MIT) or just remove
+  angle brackets (\<, \>), such as `<email@example.com>` in both [`README`](README.md) and
+  [`LICENSE-MIT`](LICENSE-MIT) or just remove
   `[<email>]` if you don't want it.
 
 ## Contributing
