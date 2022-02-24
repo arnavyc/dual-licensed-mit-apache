@@ -1,8 +1,4 @@
-<!--
-SPDX-FileCopyrightText: 2021 Arnav Yash Chandra <arnavyash2004@outlook.com>
-
-SPDX-License-Identifier: MIT OR Apache-2.0
--->
+<!-- SPDX-License-Identifier: MIT OR Apache-2.0 -->
 
 # Sample MIT and Apache 2.0 dual-licensed project _(dual-licensed-mit-apache)_
 
