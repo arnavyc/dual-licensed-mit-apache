@@ -1,8 +1,4 @@
-<!--
-SPDX-FileCopyrightText: 2021 Arnav Yash Chandra <arnavyash2004@outlook.com>
-
-SPDX-License-Identifier: MIT OR Apache-2.0
--->
+<!-- SPDX-License-Identifier: MIT OR Apache-2.0 -->
 
 # Sample MIT and Apache 2.0 dual-licensed project _(dual-licensed-mit-apache)_
 
@@ -34,10 +30,12 @@ license.
 ## Usage
 
 - Either fork or use the repository as a Github template.
-- Then replace `2021` and `Arnav Yash Chandra <arnavyash2004@outlook.com>` in [COPYRIGHT.md](COPYRIGHT.md)
-  and [LICENSE-MIT](LICENSE-MIT) file with year and either your name or text
-  such as `Contributors of <project name> Project` respectively, where
-  `<project name>` is the name of the project.
+- Replace all instances of `<authors>` with either your name or text such as
+  `Contributors of Project <name>` in both [`README`](README.md) and [`LICENSE-MIT`](LICENSE-MIT).
+- Either replace `[<email>]` with your personal or project email enclosed within
+  angle brackets (\<, \>), such as `<email@example.com>` in both [`README`](README.md) and
+  [`LICENSE-MIT`](LICENSE-MIT) or just remove
+  `[<email>]` if you don't want it.
 
 ## Contributing
 
@@ -47,11 +45,13 @@ dual licensed as below, without any additional terms or conditions.
 
 ## License
 
-Licensed under either of
+&copy; \<year\> \<authors\> \[\<email\>].
 
-- Apache License, Version 2.0 ([LICENSE-APACHE](LICENSE-APACHE) or
-  https://www.apache.org/licenses/LICENSE-2.0)
-- MIT license ([LICENSE-MIT](LICENSE-MIT) or
-  https://opensource.org/licenses/MIT)
+This project is licensed under either of
+
+- [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) ([`LICENSE-APACHE`](LICENSE-APACHE))
+- [MIT license](https://opensource.org/licenses/MIT) ([`LICENSE-MIT`](LICENSE-MIT))
 
 at your option.
+
+The [SPDX](https://spdx.dev) license identifier for this project is `MIT OR Apache-2.0`.

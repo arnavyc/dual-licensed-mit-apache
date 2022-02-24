@@ -1,19 +1,6 @@
-# Intellectual Property Notice
+# Licensing Information
 
-## Short version for non-lawyers:
-
-Copyright (c) `2021` `Arnav Yash Chandra`
-
-This project is licensed under the terms of either Apache 2.0 or MIT license at
-your option.
-
-```
-SPDX-License-Identifier: MIT OR Apache-2.0
-```
-
-## Longer version:
-
-Copyright (c) `2021` `Arnav Yash Chandra`
+Copyright \<year\> \<authors\> [\<email\>].
 
 Copyrights in this project are retained by contributors. No copyright assignment
 is required to contribute to this project.
